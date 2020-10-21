@@ -1,8 +1,4 @@
-"""
-Solution to Sheet 1 of the Machine Learning I: Foundations Course
-    
-Author: Billy Joe Franks
-"""
+
 
 import numpy as np
 import csv
